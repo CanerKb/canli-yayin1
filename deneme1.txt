@@ -1,2 +1,4 @@
 Merhaba
 Print("Hello_World")
+Yeveyliiiii
+Ara yüzlere alışman gerekecek Push seni asjdşahşgşhajl
