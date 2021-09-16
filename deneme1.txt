@@ -1,3 +1,4 @@
 Merhaba
 Print("Hello_World")
-Hadi bakalım umarım anladın
+Yeveyliiiii
+
